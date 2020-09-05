@@ -21,5 +21,7 @@ A Nuke bot for discord that deletes every channel and role
 Inline-style: 
 ![alt text](https://i2.wp.com/www.nextofwindows.com/wp-content/uploads/2015/07/File-Explorer-Quick-Access.png)
 14. A black window should show up
-15. In the window typen `node index.js` or `node .`
-16. Have fun with the bot 
+15. In it type npm install --production
+16. That downloads all the node modules
+17. After that type `node index.js` or `node .`
+18. Have fun with the bot 
