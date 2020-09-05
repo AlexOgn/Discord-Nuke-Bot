@@ -1,6 +1,9 @@
 # Discord-Nuke-Bot
 A Nuke bot for discord that deletes every channel and role
 
+# DISCLAIMER
+# I AM NOT RESPONSIBLE IF YOUR ACCOUNT GETS BANNED
+
 # Getting Started
 1. Download `NodeJS` if you haven't from here: https://nodejs.org/en/
 2. Go through the instalation process
@@ -10,6 +13,13 @@ A Nuke bot for discord that deletes every channel and role
 6. Add a bot to the application
 7. To invite the bot to a server go to [this](https://discordapi.com/permissions.html) page, select the permissions you want the bot to have and paste the client ID in the bottom
 8. After that copy the link below and paste it into a browser 
-9. Open the folder in which you extracted the code
-10. Open `config.json`
-11. In 
+9. Open the bot tab in the Discord developer portal and copy the token
+10. Open the folder in which you extracted the code
+11. Open `config.json`
+12. Edit the prefix and copy-paste the token
+13. Click here and type cmd then press Enter
+Inline-style: 
+![alt text](https://i2.wp.com/www.nextofwindows.com/wp-content/uploads/2015/07/File-Explorer-Quick-Access.png)
+14. A black window should show up
+15. In the window typen `node index.js` or `node .`
+16. Have fun with the bot 
